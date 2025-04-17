@@ -1,6 +1,6 @@
-# LABFM_LinearSystemSurrogate
+# infer-ls
 
-LABFM_LinearSystemSurrogate is a project that implements pretrained neural networks to surrogate the linear system of the Laplace operator in the local anisotropic basis function method (LABFM). The intended application is to conduct a convergence analysis of the results obtained with the neural networks, evaluating the quality of these results.
+infer-ls is a project that implements pretrained neural networks to surrogate the linear system of the Laplace operator in the local anisotropic basis function method (LABFM). The intended application is to conduct a convergence analysis of the results obtained with the neural networks, evaluating the quality of these results.
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ LABFM_LinearSystemSurrogate is a project that implements pretrained neural netwo
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/lucasstarepravo/LABFM_LinearSystemSurrogate.git
+   git clone https://github.com/lucasstarepravo/infer-ls.git
    ```
 2. **Install Dependencies:**
      ```bash
